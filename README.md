@@ -13,3 +13,7 @@ The model can be improved with
 You can swap any other singular stock
 A good site to find more stock data -- https://finance.yahoo.com/
 From yahoo you can adjust the time frame and dividens as well
+
+if you don't have it already you will have to pip install pandas, keras, matplotlib, sklearn and the other libraries used\
+
+An alternative to the Forecast method could be to use an SVM model overfitting could be a concern for SVM
