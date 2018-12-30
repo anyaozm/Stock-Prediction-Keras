@@ -1,4 +1,4 @@
-# Stock-Prediction-Keras
+# Stock Predictions using Keras
 Stock Market Predictions Keras for CSV files 
 
 I used MatPlotLib to plot out the forecasts and compare them to the real values
@@ -17,3 +17,13 @@ From yahoo you can adjust the time frame and dividens as well
 if you don't have it already you will have to pip install pandas, keras, matplotlib, sklearn and the other libraries used\
 
 An alternative to the Forecast method could be to use an SVM model overfitting could be a concern for SVM
+
+# Dependencies
+
+- [ ] Numpy
+- [ ] Matplotlib
+- [ ] Scikit Learn
+- [ ] Keras
+- [ ] Tensorflow
+- [ ] Math
+- [ ] Pandas
